@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Trivia</string>
+    <string name="no_quiz_found_dialog_message">There are no quiz saved by any user till now. You can play the quiz and click on the finish button shown on the end of the quiz at the summary screen to save the played quiz.</string>
+    <string name="no_quiz_found_dialog_title">No Quiz Found!!</string>
+    <string name="feedback_message_for_quitting_quiz">Are you sure you want to quit the quiz?</string>
+    <string name="string_next">Next</string>
+    <string name="feedback_message_to_ask_name">What is your name?</string>
+    <string name="string_history">History</string>
+    <string name="string_finish">Finish</string>
+</resources>
